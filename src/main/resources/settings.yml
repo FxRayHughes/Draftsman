@@ -1,0 +1,29 @@
+Groups:
+  测试技能:
+    #以下内容删除则默认为0 =-= 简化行数
+    #change 额外偏移不跟随实体方向
+    changeX: 0
+    changeY: 0
+    changeZ: 0
+    #rotate 旋转角
+    rotateX: 0
+    rotateY: 0
+    rotateZ: 0
+    #extra 额外偏移跟随实体方向
+    extraX: 0
+    extraY: 0
+    extraZ: 0
+    path: "test.png"
+    width: 5
+    hight: 5
+    #透明度
+    alpha: 1
+    #跟随玩家视角移动?
+    follow: false
+    #发光?
+    glow: false
+    #锁定玩家视角?
+    lock: false
+  lona乱舞:
+    path: "test.png"
+    lock: true
